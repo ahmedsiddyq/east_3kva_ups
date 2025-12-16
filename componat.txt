@@ -1,0 +1,23 @@
+3kv 
+
+inverter transistor
+2x IRG7PH35 50A 25A 60A 1200v 100nc igbt 
+
+
+pfc transistor 
+2x 40V60DF   80A  40A 160A 600v  100nc igbt 1.9E @100
+1x FGL60N100 60A  41A 200A 1000v 100nc igbt 
+1x 60N65     120A 60A 180A 650v  100nC  igbt
+
+DC-DC transistor 
+3x FDA69N25 69A 44A 276A 250v  80nc mosfet 
+
+
+gate driver 
+VO3150A
+tlp350
+
+caps
+10uf 400v
+
+ntc

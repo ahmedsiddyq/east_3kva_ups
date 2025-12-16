@@ -1,0 +1,31 @@
+check battery exitance
+while cheek for decreasing voltage on bat check pin 
+turn the charger on by 12v on off-charger pin for 1.2 sec
+turn the charger off by 0v on off-charger pin for 1.1 sec
+turn the charger on by 12v on off-charger pin
+-->if batt connected 
+
+
+
+
+
+off normal state
+low volteg off
+pwm of inverter off 
+pfc relay off
+pwm of pfc off
+
+
+
+
+
+low voltge direct on from 220v
+low volteg on
+pwm of inverter on 
+pwm of dc-dc on 
+
+check +bus and -bus state
+check dc-dc state
+
+pfc relay on
+pwm of pfc on

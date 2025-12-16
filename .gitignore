@@ -1,0 +1,33 @@
+# Backup and autosave files
+*.bak
+*.tmp
+*.old
+*.zip
+
+*~
+
+# KiCad cache and output files
+*.kicad_pcb-bak
+*.sch-bak
+*.pro
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.drl
+*.gbr
+*.kicad_mod-bak
+
+# Output folders (e.g., Gerbers, 3D exports)
+/output/
+/gerbers/
+/fab/
+
+# User-specific configuration
+*.kicad_sch
+*.kicad_pcb
+*.cache
+*.lib
+*.dcm
+
+# OS generated files
+.DS_Store
+Thumbs.db
