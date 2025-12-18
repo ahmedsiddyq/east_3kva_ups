@@ -2,9 +2,8 @@
 *.bak
 *.tmp
 *.old
-*.zip
-
 *~
+*.zip
 
 # KiCad cache and output files
 *.kicad_pcb-bak
@@ -22,8 +21,6 @@
 /fab/
 
 # User-specific configuration
-*.kicad_sch
-*.kicad_pcb
 *.cache
 *.lib
 *.dcm
